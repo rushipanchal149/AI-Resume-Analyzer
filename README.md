@@ -1,5 +1,9 @@
 # 🤖 AI Resume Analyzer
 
+
+🚀 **Live Demo:**  
+https://ai-resume-analyzer-9mbhafwnnwknf865bhjrqs.streamlit.app/
+
 An AI-powered Resume Analyzer built using **Streamlit, LangChain, Google Gemini, FAISS, and HuggingFace Embeddings**.
 
 The application analyzes resumes against job descriptions, provides ATS feedback, allows users to chat with their resume using Retrieval-Augmented Generation (RAG), and generates a downloadable PDF report.
